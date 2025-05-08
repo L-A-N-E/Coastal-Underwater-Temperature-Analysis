@@ -41,8 +41,6 @@ Here's why this project stands out:
 - [NumPy](https://numpy.org/)
 - [SciPy](https://scipy.org/)
 
-[Back to top](#table-of-contents)
-
 ## Getting Started
 
 Follow these steps to set up the project locally.
