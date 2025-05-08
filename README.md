@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="/README-PTBR.md">Readme PT-BR</a>
+</p>
+
+<p align="center">
   <img src="https://github.com/L-A-N-E/CP2_Edge_1SEM/assets/153787379/132308ff-27a0-45e7-8323-80d9103f2390" alt="Coastal Temperature Analysis Logo" />
 </p>
 
